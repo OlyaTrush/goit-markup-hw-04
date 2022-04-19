@@ -517,7 +517,7 @@ margin-bottom: 20px;
 }
 
 .company-item:hover, .company-item:focus {
-  stroke: var(--accent-color);
+  color: var(--accent-color);
   border: 1px solid var(--accent-color);
 }
 
